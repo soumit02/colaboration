@@ -1,3 +1,1 @@
-jhgahfdtyhjej
-jjdhbewwgftfhjs
-jhdhewfdhgb
+print ("my name is nanjiba")
